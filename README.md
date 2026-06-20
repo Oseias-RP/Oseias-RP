@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oseias-RP
-- 👀 I’m interested in ...No momento aprender  como tudo funcia
-- 🌱 I’m currently learning ...Engenharia de Softwere 4° ano
-- 💞️ I’m looking to collaborate on ...No momento cursando java por fora da faculdade.
+- 👀 I’m interested in ...Aprendendo como tudo funcia a cada dia
+- 🌱 I’m currently learning ...Engenharo de Softwere
+- 💞️ I’m looking to collaborate on ...No momento produção de software como anonimo.
 - 📫 How to reach me ... oseiaspartelli@gmail.com
 
 <!---
